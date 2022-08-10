@@ -11,7 +11,8 @@ Los archivos para cada módulo se encuentran en la carpeta `modulos/` como por e
 Los estilos principales son de tipo externo y se localizan en el archivo `static/css/main.css`
 
 ## Notas:
-- Valiando que la rama master está restringida
+- Validando que la rama master está restringida para master [x]
+- Validando que la rama master está restringida para el usuario rictorcb [ ]
 
 ## Colaboradores:
 - Ricardo (@rictorcb)
