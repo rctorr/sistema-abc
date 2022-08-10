@@ -15,5 +15,5 @@ Los estilos principales son de tipo externo y se localizan en el archivo `static
 - Validando que la rama master está restringida para el usuario rictorcb [ok]
 
 ## Colaboradores:
-- Ricardo (@rictorcb)
+- Ricardo Torres (rictor@cuhrt.com)
 
