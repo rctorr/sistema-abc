@@ -12,7 +12,7 @@ Los estilos principales son de tipo externo y se localizan en el archivo `static
 
 ## Notas:
 - Validando cambio desde el propietario rctorr
-
+---
 ## Colaboradores:
 - Ricardo Torres (rictor@cuhrt.com)
 - Marco Antonio (tonovarela)
