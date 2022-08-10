@@ -12,7 +12,7 @@ Los estilos principales son de tipo externo y se localizan en el archivo `static
 
 ## Notas:
 - Validando que la rama master está restringida para master [x]
-- Validando que la rama master está restringida para el usuario rictorcb [ ]
+- Validando que la rama master está restringida para el usuario rictorcb [ok]
 
 ## Colaboradores:
 - Ricardo (@rictorcb)
