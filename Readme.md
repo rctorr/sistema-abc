@@ -12,3 +12,7 @@ Los estilos principales son de tipo externo y se localizan en el archivo `static
 
 ## Notas:
 ...
+
+## Colaboradores:
+- Ricardo (@rictorcb)
+
